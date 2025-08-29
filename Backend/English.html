@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic YouTube Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+            background-color: #f7f7f7;
+        }
+        h1 {
+            color: #333;
+        }
+        input, button {
+            padding: 10px;
+            margin: 5px;
+            font-size: 16px;
+        }
+        .video-container {
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dynamic YouTube Player</h1>
+    <p>Default video loaded. Paste any YouTube link below to play another video.</p>
+
+    <input type="text" id="youtubeLink" placeholder="Paste YouTube link here" size="50">
+    <button onclick="playVideo()">Play Video</button>
+
+    <div class="video-container" id="playerContainer">
+        <!-- Default Video -->
+        <iframe width="996" height="560" 
+            src="https://www.youtube.com/embed/uPyx_dtkoNw?autoplay=1&modestbranding=1" 
+            title="1000+ Important Sentence Improvement For all Exams | SSC CGL, CHSL, MTS, CPO, STENO & Other exams" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            allowfullscreen>
+        </iframe>
+    </div>
+
+    <script>
+        function getVideoID(url) {
+            const regex = /(?:https?:\/\/)?(?:www\.)?youtu(?:\.be\/|be\.com\/watch\?v=)([^\s&]+)/;
+            const match = url.match(regex);
+            return match ? match[1] : null;
+        }
+
+        function playVideo() {
+            const url = document.getElementById("youtubeLink").value;
+            const videoID = getVideoID(url);
+
+            if(!videoID) {
+                alert("Invalid YouTube link!");
+                return;
+            }
+
+            document.getElementById("playerContainer").innerHTML = `
+                <iframe width="996" height="560" 
+                    src="https://www.youtube.com/embed/${videoID}?autoplay=1&modestbranding=1" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                    allowfullscreen>
+                </iframe>
+            `;
+        }
+    </script>
+</body>
+</html>
