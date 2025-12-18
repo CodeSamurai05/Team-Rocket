@@ -1,0 +1,303 @@
+[
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 811,
+    "cost": 0.000811,
+    "timestamp": "2025-12-02T20:12:06.141412",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 847,
+    "cost": 0.000847,
+    "timestamp": "2025-12-02T20:12:32.743494",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1239,
+    "cost": 0.0012389999999999999,
+    "timestamp": "2025-12-02T20:43:44.197280",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1122,
+    "cost": 0.001122,
+    "timestamp": "2025-12-02T21:01:19.769812",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 861,
+    "cost": 0.000861,
+    "timestamp": "2025-12-02T21:01:47.676929",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 812,
+    "cost": 0.000812,
+    "timestamp": "2025-12-02T21:02:13.855459",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 777,
+    "cost": 0.0007769999999999999,
+    "timestamp": "2025-12-02T21:02:54.440857",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1000,
+    "cost": 0.001,
+    "timestamp": "2025-12-02T21:03:28.218497",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 706,
+    "cost": 0.0007059999999999999,
+    "timestamp": "2025-12-02T21:04:07.719493",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 979,
+    "cost": 0.000979,
+    "timestamp": "2025-12-02T21:04:35.214747",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 892,
+    "cost": 0.000892,
+    "timestamp": "2025-12-02T21:05:12.131664",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 811,
+    "cost": 0.000811,
+    "timestamp": "2025-12-02T21:06:02.451817",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 815,
+    "cost": 0.000815,
+    "timestamp": "2025-12-02T21:08:08.920667",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 801,
+    "cost": 0.000801,
+    "timestamp": "2025-12-02T21:24:44.938419",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1363,
+    "cost": 0.0013629999999999998,
+    "timestamp": "2025-12-02T21:36:30.924071",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 820,
+    "cost": 0.00082,
+    "timestamp": "2025-12-03T00:14:39.533922",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 800,
+    "cost": 0.0007999999999999999,
+    "timestamp": "2025-12-03T00:16:22.804888",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 916,
+    "cost": 0.0009159999999999999,
+    "timestamp": "2025-12-03T00:17:08.927547",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 847,
+    "cost": 0.000847,
+    "timestamp": "2025-12-03T00:21:06.325695",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1203,
+    "cost": 0.0012029999999999999,
+    "timestamp": "2025-12-03T00:24:47.303655",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 824,
+    "cost": 0.000824,
+    "timestamp": "2025-12-03T00:47:16.796874",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1161,
+    "cost": 0.001161,
+    "timestamp": "2025-12-03T01:06:18.232816",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1003,
+    "cost": 0.001003,
+    "timestamp": "2025-12-03T01:06:53.599958",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast:free",
+    "tokens": 1151,
+    "cost": 0.001151,
+    "timestamp": "2025-12-03T01:07:25.426517",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 2586,
+    "cost": 0.0025859999999999998,
+    "timestamp": "2025-12-04T13:00:35.103181",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1067,
+    "cost": 0.001067,
+    "timestamp": "2025-12-04T13:01:01.267405",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 2347,
+    "cost": 0.0023469999999999997,
+    "timestamp": "2025-12-04T13:02:05.480661",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1165,
+    "cost": 0.001165,
+    "timestamp": "2025-12-04T13:56:06.972472",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1267,
+    "cost": 0.001267,
+    "timestamp": "2025-12-04T14:13:06.950583",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1289,
+    "cost": 0.001289,
+    "timestamp": "2025-12-04T14:19:06.845836",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1808,
+    "cost": 0.001808,
+    "timestamp": "2025-12-04T14:20:13.098930",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1804,
+    "cost": 0.0018039999999999998,
+    "timestamp": "2025-12-04T14:21:10.873020",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1810,
+    "cost": 0.00181,
+    "timestamp": "2025-12-04T14:21:22.420476",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 844,
+    "cost": 0.0008439999999999999,
+    "timestamp": "2025-12-04T18:23:33.676061",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 846,
+    "cost": 0.000846,
+    "timestamp": "2025-12-04T18:27:56.471100",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 802,
+    "cost": 0.000802,
+    "timestamp": "2025-12-04T18:31:30.921079",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1078,
+    "cost": 0.001078,
+    "timestamp": "2025-12-05T16:08:41.406466",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 1001,
+    "cost": 0.001001,
+    "timestamp": "2025-12-05T16:10:13.963259",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "google/gemini-3-pro-image-preview",
+    "tokens": 885,
+    "cost": 0.0008849999999999999,
+    "timestamp": "2025-12-05T16:10:51.582793",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "amazon/nova-2-lite-v1:free",
+    "tokens": 698,
+    "cost": 0.0006979999999999999,
+    "timestamp": "2025-12-09T18:30:34.927921",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "amazon/nova-2-lite-v1:free",
+    "tokens": 697,
+    "cost": 0.0006969999999999999,
+    "timestamp": "2025-12-09T18:36:36.846900",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast",
+    "tokens": 825,
+    "cost": 0.000825,
+    "timestamp": "2025-12-09T18:46:51.928617",
+    "cost_per_token": 1e-06
+  },
+  {
+    "model": "x-ai/grok-4.1-fast",
+    "tokens": 834,
+    "cost": 0.000834,
+    "timestamp": "2025-12-09T18:47:11.716373",
+    "cost_per_token": 1e-06
+  }
+]
